@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  CatController.swift
 //  selfigram
 //
 //  Created by Lauren  Kemp on 2016-11-15.
@@ -7,9 +7,8 @@
 //
 
 import UIKit
-import Parse
 
-class ViewController: UIViewController {
+class CatController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
